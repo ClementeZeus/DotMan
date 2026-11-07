@@ -1,4 +1,9 @@
+---
+
 # dotman
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7d1ff44e-e139-4375-8b6c-fcd4439fba0d" />
+
+---
 
 A lightweight, modular, configuration-driven Bash tool designed to manage, deploy, and inspect cross-platform dotfile symlinks across Linux, macOS, and Windows (via Git Bash).
 
